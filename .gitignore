@@ -1,0 +1,7 @@
+*.txt
+checkpoints
+.vscode
+.idea
+__pycache__
+.DS_Store
+*.log
