@@ -79,29 +79,8 @@ Structure
 ├── checkpoints
 │   ├── fb
 │   │   └── out
-│   │       ├── classification_result
-│   │       ├── connectE2T.trained_present.pth
-│   │       ├── connectE2T_TRT.trained_present.pth
-│   │       ├── connectTRT.trained_present.pth
-│   │       ├── conv
-│   │       ├── rngat.trained_present.pth
-│   │       ├── trained_2999.pth
-│   │       └── trained_present.pth
-│   ├── kinship
-│   │   └── out
-│   │       └── conv
-│   ├── nell
-│   │   └── out
-│   │       └── conv
-│   ├── umls
-│   │   └── out
-│   │       └── conv
-│   ├── wn
-│   │   └── out
-│   │       └── conv
 │   └── yago
 │       └── out
-│           └── classification_result
 ├── connect_e.log
 ├── create_batch.py 
 ├── create_batch_e2t.py

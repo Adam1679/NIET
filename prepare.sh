@@ -1,12 +1,13 @@
 #!/bin/bash
 mkdir checkpoints
-
+mkdir checkpoints/yago/
 mkdir checkpoints/wn
 mkdir checkpoints/fb
 mkdir checkpoints/kinship
 mkdir checkpoints/umls
 mkdir checkpoints/nell
 
+mkdir checkpoints/yago/out
 mkdir checkpoints/wn/out
 mkdir checkpoints/fb/out
 mkdir checkpoints/kinship/out
